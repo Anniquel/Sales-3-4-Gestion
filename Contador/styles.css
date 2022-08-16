@@ -32,6 +32,14 @@ h1{
     
 }
 
+h3{
+    background-color: rgb(235, 197, 173);
+    width: 95%;
+    height: 40px;
+    border-radius:50px;
+    margin-bottom: 20px;
+}
+
 ul {
 list-style:none;
 background-color:rgb(235, 197, 173);
